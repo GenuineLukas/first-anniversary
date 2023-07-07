@@ -5,7 +5,6 @@ import Hero from "./components/Hero/Hero";
 import Slider from "./components/slider/slider";
 import Virtual from "./components/Virtual/Virtual";
 import Products from "./components/Products/Products";
-import Mo from "./components/Modal/Mo";
 import { BrowserRouter, Routes, Route, Switch } from "react-router-dom";
 
 function App() {
